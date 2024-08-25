@@ -1,2 +1,0 @@
-# JupyterLab uzantılarını yükleyin
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
